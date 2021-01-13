@@ -26,12 +26,6 @@ document.body.prepend(generateList(arr));
 
 // 2 task
 
-// let numbers = [];
-
-// for (let i = 1; i <= 100; i++) {
-//     numbers.push(i);
-// }
-
 function generateTable() {
     const table = document.createElement('table');
     let a = 1;
